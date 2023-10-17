@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
 import ShiftingMainContent from '../main/ShiftingMainContent'
-import { HeaderShifingVariants } from '../../ui/header/Header'
+import { HeaderShifingVariants } from './types/HeaderTypings'
 
 type Props = {
     children: React.ReactNode,

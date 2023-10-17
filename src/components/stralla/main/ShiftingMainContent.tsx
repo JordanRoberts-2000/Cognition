@@ -1,7 +1,7 @@
 import { VariantProps, cva } from "class-variance-authority"
 import { useEffect, useRef } from "react"
 import { twMerge } from "tailwind-merge"
-import { HeaderShifingVariants } from "../Header/types/HeaderTypings"
+import { HeaderShifingVariants } from "../header/types/HeaderTypings"
 
 type Props = React.HTMLAttributes<HTMLElement> & 
     VariantProps<typeof variants> & {
