@@ -19,3 +19,9 @@
 .textGlow{
     text-shadow: 0 0 0.3em currentColor;
 }
+
+.gradientText{
+    background: linear-gradient(90deg,#00dbde, #fc00ff);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

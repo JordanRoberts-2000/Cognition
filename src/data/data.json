@@ -1,5 +1,35 @@
 {
     "allData": [
+        {
+            "name" : "Cloud"
+        },
+        {
+            "name" : "Frontend"
+        },
+        {
+            "name" : "Backend"
+        },
+        {
+            "name" : "Databases"
+        },
+        {
+            "name" : "OS"
+        },
+        {
+            "name" : "CyberSecurity"
+        },
+        {
+            "name" : "Accessibility"
+        },
+        {
+            "name" : "Math"
+        },
+        {
+            "name" : "Data analyics"
+        },
+        {
+            "name" : "AI"
+        },
         { 
             "name" : "React"
         },
