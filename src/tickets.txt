@@ -1,0 +1,23 @@
+=== Path ===
+this project
+fix alerts
+questionairs - frontend/backend
+
+=== category ====
+add category/subCategory
+remove category
+edit category
+button for random
+button for subCategories??
+
+=== questions and answers ===
+multiple choice
+enter text
+
+=== lastCompleted ===
+when completed add lastCompletedAt date
+can sort by lastCompletedAt
+if a month has gone by add to priority list
+
+=== bookmarks ===
+add to bookmark list
