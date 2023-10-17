@@ -21,3 +21,7 @@ if a month has gone by add to priority list
 
 === bookmarks ===
 add to bookmark list
+
+=== priority ===
+choose a question that has never been answered | has been answered the longest amount of time away
+maybe database can calculate priority after each update?
