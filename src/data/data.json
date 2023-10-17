@@ -1,0 +1,64 @@
+{
+    "allData": [
+        { 
+            "name" : "React"
+        },
+        { 
+            "name" : "Css"
+        },
+        { 
+            "name" : "Node/Express"
+        },
+        { 
+            "name" : "Bun"
+        },
+        { 
+            "name" : "Aws"
+        },
+        { 
+            "name" : "Svelte"
+        },
+        { 
+            "name" : "Next.js"
+        },
+        { 
+            "name" : "Astro"
+        },
+        { 
+            "name" : "Batch files"
+        },
+        { 
+            "name" : "Html"
+        },
+        { 
+            "name" : "Javascript"
+        },
+        { 
+            "name" : "Typescript"
+        },
+        { 
+            "name" : "C"
+        },
+        { 
+            "name" : "C++"
+        },
+        { 
+            "name" : "Rust"
+        },
+        { 
+            "name" : "Mysql"
+        },
+        { 
+            "name" : "Postgresql"
+        },
+        { 
+            "name" : "MongoDB"
+        },
+        { 
+            "name" : "Windows"
+        },
+        { 
+            "name" : "Linux"
+        }
+    ]
+}
